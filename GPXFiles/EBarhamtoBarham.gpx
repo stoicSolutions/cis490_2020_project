@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>EBarhamtoBarham</name>
+<trkseg>
+<trkpt lat="33.132258" lon="-117.164229">
+<ele>177</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.132258" lon="-117.164229">
+<ele>177</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.134271" lon="-117.156638">
+<ele>188</ele>
+<time>2020-03-10T00:08:54Z</time></trkpt>
+<trkpt lat="33.134961" lon="-117.154124">
+<ele>195</ele>
+<time>2020-03-10T00:11:52Z</time></trkpt>
+<trkpt lat="33.135066" lon="-117.154008">
+<ele>195</ele>
+<time>2020-03-10T00:12:03Z</time></trkpt>
+<trkpt lat="33.135639" lon="-117.151791">
+<ele>194</ele>
+<time>2020-03-10T00:14:39Z</time></trkpt>
+<trkpt lat="33.135639" lon="-117.151791">
+<ele>194</ele>
+<time>2020-03-10T00:14:39Z</time></trkpt>
+<trkpt lat="33.13588" lon="-117.150887">
+<ele>197</ele>
+<time>2020-03-10T00:15:43Z</time></trkpt>
+<trkpt lat="33.136086" lon="-117.150337">
+<ele>199</ele>
+<time>2020-03-10T00:16:23Z</time></trkpt>
+<trkpt lat="33.136223" lon="-117.150078">
+<ele>200</ele>
+<time>2020-03-10T00:16:44Z</time></trkpt>
+<trkpt lat="33.136875" lon="-117.148956">
+<ele>205</ele>
+<time>2020-03-10T00:18:16Z</time></trkpt>
+<trkpt lat="33.138859" lon="-117.145592">
+<ele>200</ele>
+<time>2020-03-10T00:22:52Z</time></trkpt>
+<trkpt lat="33.138992" lon="-117.145287">
+<ele>198</ele>
+<time>2020-03-10T00:23:15Z</time></trkpt>
+<trkpt lat="33.139053" lon="-117.145088">
+<ele>198</ele>
+<time>2020-03-10T00:23:29Z</time></trkpt>
+<trkpt lat="33.139099" lon="-117.144852">
+<ele>197</ele>
+<time>2020-03-10T00:23:45Z</time></trkpt>
+<trkpt lat="33.139122" lon="-117.144623">
+<ele>197</ele>
+<time>2020-03-10T00:24:01Z</time></trkpt>
+<trkpt lat="33.139122" lon="-117.144138">
+<ele>196</ele>
+<time>2020-03-10T00:24:33Z</time></trkpt>
+<trkpt lat="33.139122" lon="-117.144138">
+<ele>196</ele>
+<time>2020-03-10T00:24:33Z</time></trkpt>
+<trkpt lat="33.139122" lon="-117.143997">
+<ele>196</ele>
+<time>2020-03-10T00:24:43Z</time></trkpt>
+<trkpt lat="33.139072" lon="-117.143478">
+<ele>196</ele>
+<time>2020-03-10T00:25:18Z</time></trkpt>
+<trkpt lat="33.138977" lon="-117.142998">
+<ele>196</ele>
+<time>2020-03-10T00:25:51Z</time></trkpt>
+<trkpt lat="33.138855" lon="-117.142601">
+<ele>196</ele>
+<time>2020-03-10T00:26:19Z</time></trkpt>
+<trkpt lat="33.138306" lon="-117.141273">
+<ele>199</ele>
+<time>2020-03-10T00:27:59Z</time></trkpt>
+<trkpt lat="33.13615" lon="-117.136214">
+<ele>206</ele>
+<time>2020-03-10T00:34:20Z</time></trkpt>
+<trkpt lat="33.13615" lon="-117.136214">
+<ele>206</ele>
+<time>2020-03-10T00:34:20Z</time></trkpt>
+<trkpt lat="33.135174" lon="-117.133995">
+<ele>211</ele>
+<time>2020-03-10T00:37:08Z</time></trkpt>
+<trkpt lat="33.134577" lon="-117.132575">
+<ele>209</ele>
+<time>2020-03-10T00:38:55Z</time></trkpt>
+<trkpt lat="33.133338" lon="-117.129729">
+<ele>212</ele>
+<time>2020-03-10T00:42:30Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
