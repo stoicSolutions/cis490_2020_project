@@ -1,8 +1,8 @@
 # San Marcos Litter Detection - Proof of Concept
-CSUSM: Project Management & Practice
-Instructor: Dr. Shaun-inn Wuu
-Clients: Dr. Wesley Schultz & Dr. Kristin Stewart
-Spring 2020 
+###CSUSM: Project Management & Practice
+###Instructor: Dr. Shaun-inn Wuu
+###Clients: Dr. Wesley Schultz & Dr. Kristin Stewart
+###Spring 2020 
 
 ## Project Outline
 Building on fixIT's previous work the Stoic Solutions team was tasked with using their machine learning algorithm to process street images for the city of San Marcos.
