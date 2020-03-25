@@ -9,11 +9,11 @@ Building on fixIT's previous work the Stoic Solutions team was tasked with using
 
 ## Guiding Questions
 
-*How to collect latitude/longitude points throughout the city?
-*Is it necessary to collect all four images from a panorama?
-*Once we have the latitude/longitude files how should we process them?
-*What information is relevant for the team creating the user interface?
-*How do we get the data from the machine learning algorithm to the relational database?
+* How to collect latitude/longitude points throughout the city?
+* Is it necessary to collect all four images from a panorama?
+* Once we have the latitude/longitude files how should we process them?
+* What information is relevant for the team creating the user interface?
+* How do we get the data from the machine learning algorithm to the relational database?
 
 ## Implementation
 
