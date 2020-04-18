@@ -18,9 +18,10 @@ Building on fixIT's previous work the Stoic Solutions team was tasked with using
 * How do we get the data from the machine learning algorithm to the relational database?
 
 ## Things you will need
-* Goole Street View API Key (For fetching images)
-* AWS Account (For storing data in a database)
+* Goole Street View API Key (For fetching images) [Google Cloud Platform](https://cloud.google.com/)
+* AWS Account (For storing data in a database) [AWS](https://aws.amazon.com/)
 * Access to TrashTracker EC2 Instance (For processing images with tensorflow)
+* An account with plotaroute.com [Plotaroute](https://www.plotaroute.com/routeplanner)
 
 ## Implementation
 
