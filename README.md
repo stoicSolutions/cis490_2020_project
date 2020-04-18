@@ -1,4 +1,4 @@
-![logo](https://github.com/mower003/cis490_2020_project/blob/master/img/StoicSolutionsTransparentBGNoText.png) #Stoic Solutions
+![logo](https://github.com/mower003/cis490_2020_project/blob/master/img/StoicSolutionsTextAboveLogoSmall.png) 
 
 ## San Marcos Litter Detection
 #### CSUSM: Project Management & Practice
