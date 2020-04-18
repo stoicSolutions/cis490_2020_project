@@ -1,4 +1,7 @@
-# San Marcos Litter Detection - Proof of Concept
+#Stoic Solutions
+![Stoic Solutions Logo](https://github.com/img/StoicSolutionsTransparentBGNoText.png "Logo Title")
+
+## San Marcos Litter Detection
 ### CSUSM: Project Management & Practice
 ### Instructor: Dr. Shaun-inn Wuu
 ### Clients: Dr. Wesley Schultz & Dr. Kristin Stewart
