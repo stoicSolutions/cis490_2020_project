@@ -17,6 +17,11 @@ Building on fixIT's previous work the Stoic Solutions team was tasked with using
 * What information is relevant for the team creating the user interface?
 * How do we get the data from the machine learning algorithm to the relational database?
 
+## Things you will need
+* Goole Street View API Key (For fetching images)
+* AWS Account (For storing data in a database)
+* Access to TrashTracker EC2 Instance (For processing images with tensorflow)
+
 ## Implementation
 
 ## Future Enhancements
