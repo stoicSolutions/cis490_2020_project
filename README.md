@@ -1,11 +1,10 @@
-#Stoic Solutions
-![Stoic Solutions Logo](https://github.com/mower003/cis490_2020_project/img/StoicSolutionsTransparentBGNoText.png "Logo Title")
+![logo](https://github.com/mower003/cis490_2020_project/blob/master/img/StoicSolutionsTransparentBGNoText.png) #Stoic Solutions
 
 ## San Marcos Litter Detection
-### CSUSM: Project Management & Practice
-### Instructor: Dr. Shaun-inn Wuu
-### Clients: Dr. Wesley Schultz & Dr. Kristin Stewart
-### Spring 2020 
+#### CSUSM: Project Management & Practice
+#### Instructor: Dr. Shaun-inn Wuu
+#### Clients: Dr. Wesley Schultz & Dr. Kristin Stewart
+#### Spring 2020 
 
 ## Project Outline
 Building on fixIT's previous work the Stoic Solutions team was tasked with using their machine learning algorithm to process street images for the city of San Marcos.
