@@ -77,11 +77,11 @@ Below is a screenshot of the script running on a GPX File.
 ![OSMnx San Marcos](https://github.com/mower003/cis490_2020_project/blob/master/img/SanMarcosA.png)
 
 ### Team
-Chris B.
-Adam H.
-Matthew A.
-Enrique J.
-Brian R.
-Jerry C.
-Jordan M.
-Connor M.
+Chris B. |
+Adam H. |
+Matthew A. |
+Enrique J. |
+Brian R. |
+Jerry C. |
+Jordan M. |
+Connor M. |
