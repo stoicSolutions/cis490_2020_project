@@ -71,7 +71,7 @@ Below is a screenshot of the script running on a GPX File.
 * Automation of route collection would greatly improve the scalability, second only to speeding up ML processing.
 * Unfortunately for us (but luckily for the next group) we came across a possible solution to this problem late into the semester.
 * OSMnx provides many ways to interact with data gathered by volunteers and other data collection methods. Most importantly, it provides coordinate pairs of every street for a queried city. The below image was created using OSMnx. We have also included the OSMnx file titled `SMStreetCoords(OSMnx).txt` that contains street names and a list of coordinates for the graph as well as the `AllStreetsInACity.ipynb` script that was used to create these.
-![OSMnx San Marcos](https://github.com/mower003/cis490_2020_project/blob/master/img/San MarcosA.png)
+![OSMnx San Marcos](https://github.com/mower003/cis490_2020_project/blob/master/img/SanMarcosA.png)
 
 ### Team
 Chris B.
