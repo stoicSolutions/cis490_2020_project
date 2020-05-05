@@ -71,6 +71,7 @@ Below is a screenshot of the script running on a GPX File.
 * Automation of route collection would greatly improve the scalability, second only to speeding up ML processing.
 * Unfortunately for us (but luckily for the next group) we came across a possible solution to this problem late into the semester.
 * OSMnx provides many ways to interact with data gathered by volunteers and other data collection methods. Most importantly, it provides coordinate pairs of every street for a queried city. The below image was created using OSMnx. We have also included the OSMnx file titled `SMStreetCoords(OSMnx).txt` that contains street names and a list of coordinates for the graph as well as the `AllStreetsInACity.ipynb` script that was used to create these.
+* It should be possible to use OSMnx to gather a list of streets and their coordinates, parse them using python, and then pass a list of coordinates to the Google Roads API (using Snap-to-Roads) to interpolate. This must be done because OSMnx coordinate pairs DO NOT map directly to those used by Google. However, Google Roads API can take approximate coordinate data and return a list of coordinates that represent valid locations within Street View. Using these, you can then query Google Street View to collect images similarly to how we have done.
 * Here is a link to installing OSMnx and the site also has guides on how to use it.
 ![Link to installing OSMnx](https://geoffboeing.com/2017/02/python-getting-started/)
 ![OSMnx San Marcos](https://github.com/mower003/cis490_2020_project/blob/master/img/SanMarcosA.png)
