@@ -41,14 +41,47 @@ We decided that collected front and back images would not only be redundant, but
 Below is a screenshot of the script running on a GPX File.
 ![street2.1.py](https://github.com/mower003/cis490_2020_project/blob/master/img/street2.1img.png)
 
-## Future Enhancements
+##### Processing Images Using Machine Learning on the EC2 Server
+* After the previous steps we had several batches of images (approx 4000 total).
+* These were uploaded to the EC2 server and processed using the previously established machine learning algorithm.
+* Minor adjustments to the previous groups script were made so that output was redirected to a text file rather than displaying it inside Jupyter Notebook. The script `Stoicsolutions_KABProcessor.ipynb` used to process the images is located in the /scripts folder of GitHub and also on the EC2 Server.
+* Processing the images takes quite a long time. In our case, we had 4,216 images. The average processing time per picture was 6 seconds. Therefore, it took about 7 hours to process all our images (((6s * 4,216)/60)/60) = 7.027 hours). This is mentioned because we feel this data set is considered small. Future groups may be expected to gather larger data sets which will result in much longer processing times.
+### fixIT Script & Output
+![fixIt Script](https://github.com/mower003/cis490_2020_project/blob/master/img/fixITScriptImage.png)
+
+### Stoic Solutions Script & Output
+![Stoic Solutions Script](https://github.com/mower003/cis490_2020_project/blob/master/img/StoicSolutionScriptImage.png)
+
+#### Processing Raw ML Output
+* The next step in our solution involves collating data from multiple angles into a single point of data per coordinate pair. This is necessary because data from the ML process produces duplicate coordinate pairs for every angle. Not only do we want to remove duplicate coordinates but we want to sum the counted pieces of litter from each angle and assign a new KAB Rating based on the sum of the litter.
+* This process was accomplished using the 'database.py' script. For every line in the raw ML text file it parses the line into its components (lat,lon,KAB_rating,litter_count,date). A dictionary or associative array is used where k(lat,lon) = v(KAB_rating,litter_count,date). This allows for only unique K,V pairs to exist. Any following line where K exists has its litter_count summed with the current lines litter_count and KAB_rating is adjusted accordingly.
+* 4,216 unique images -> 4,216 lines of data  -> 2,108 unique points -> 2,108 rows of data in the database.
+* PyMySQL was used to connect to our Amazon RDS instance and run queries to insert the refined data into the database. 
+![database.py](https://github.com/mower003/cis490_2020_project/blob/master/img/databaseScript.png)
+* If you wish to recreate our database, simply download the `SanMarcosData.txt` and `database.py` files. Modify the `BASE_SAVE_PATH`, and connection credentials in `database.py`. Run the script and it will populate your database with our data set. 
+
+### Summary
+* Using plotaroute.com we gathered GPX files for streets within the city of San Marcos.
+* These GPX files were parsed for coordinates which were then passed to Google Street View where we captured pictures of the sides of the street.
+* The pictures were then procssed using a previously established machine learning server and produced data in the form of (lat,lon,rating,litter_count,date).
+* This data was further refined and then inserted into an AWS Relational Database so it can be used by the UI team.
+
+## Future Enhancements - Automating route collection
+* The most glaring deficiency in our solution is the method of gathering coordinate pairs to be passed to Google Street View. Manually plotting routes for a city is not scalable. Google provides no API solutions for traversing streets without knowing coordinates beforehand so a third party solution seems to be the only relevant way to solve this. 
+* Automation of route collection would greatly improve the scalability, second only to speeding up ML processing.
+* Unfortunately for us (but luckily for the next group) we came across a possible solution to this problem late into the semester.
+* OSMnx provides many ways to interact with data gathered by volunteers and other data collection methods. Most importantly, it provides coordinate pairs of every street for a queried city. The below image was created using OSMnx. We have also included the OSMnx file titled `SMStreetCoords(OSMnx).txt` that contains street names and a list of coordinates for the graph as well as the `AllStreetsInACity.ipynb` script that was used to create these.
+* It should be possible to use OSMnx to gather a list of streets and their coordinates, parse them using python, and then pass a list of coordinates to the Google Roads API (using Snap-to-Roads) to interpolate. This must be done because OSMnx coordinate pairs DO NOT map directly to those used by Google. However, Google Roads API can take approximate coordinate data and return a list of coordinates that represent valid locations within Street View. Using these, you can then query Google Street View to collect images similarly to how we have done.
+* Here is a link to installing OSMnx and the site also has guides on how to use it.
+![Link to installing OSMnx](https://geoffboeing.com/2017/02/python-getting-started/)
+![OSMnx San Marcos](https://github.com/mower003/cis490_2020_project/blob/master/img/SanMarcosA.png)
 
 ### Team
-Chris B.
-Adam H.
-Matthew A.
-Enrique J.
-Brian R.
-Jerry C.
-Jordan M.
-Connor M.
+Chris B. |
+Adam H. |
+Matthew A. |
+Enrique J. |
+Brian R. |
+Jerry C. |
+Jordan M. |
+Connor M. |
