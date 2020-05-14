@@ -6,9 +6,9 @@ import datetime
 import pymysql
 
 #Connection Details
-dbEndPoint = 'trashtrackerdb.cth19jrs3gyq.us-west-2.rds.amazonaws.com'
-dbUserName = "trashtrackerAdm"
-dbPassword = "StoIcC0ugars"
+dbEndPoint = 'AWSEndpoint'
+dbUserName = "aUserName"
+dbPassword = "apassword"
 dbName = "innodb"
 dbCharset = 'utf8mb4'
 cursorType = pymysql.cursors.DictCursor
