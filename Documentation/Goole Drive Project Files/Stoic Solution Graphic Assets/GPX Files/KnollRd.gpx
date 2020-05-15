@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>KnollRd</name>
+<trkseg>
+<trkpt lat="33.138698" lon="-117.174321">
+<ele>171</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.138698" lon="-117.174321">
+<ele>171</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.139936" lon="-117.174765">
+<ele>174</ele>
+<time>2020-03-10T00:01:44Z</time></trkpt>
+<trkpt lat="33.140431" lon="-117.174897">
+<ele>176</ele>
+<time>2020-03-10T00:02:24Z</time></trkpt>
+<trkpt lat="33.140971" lon="-117.174833">
+<ele>179</ele>
+<time>2020-03-10T00:03:08Z</time></trkpt>
+<trkpt lat="33.142029" lon="-117.174507">
+<ele>186</ele>
+<time>2020-03-10T00:04:35Z</time></trkpt>
+<trkpt lat="33.142986" lon="-117.174156">
+<ele>190</ele>
+<time>2020-03-10T00:05:56Z</time></trkpt>
+<trkpt lat="33.145132" lon="-117.173445">
+<ele>182</ele>
+<time>2020-03-10T00:08:54Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
