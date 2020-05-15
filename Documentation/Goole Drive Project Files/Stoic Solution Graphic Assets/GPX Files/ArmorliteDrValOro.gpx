@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>ArmorliteDrValOro</name>
+<trkseg>
+<trkpt lat="33.148451" lon="-117.190725">
+<ele>172</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.148451" lon="-117.190725">
+<ele>172</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.148446" lon="-117.19071">
+<ele>172</ele>
+<time>2020-03-10T00:00:01Z</time></trkpt>
+<trkpt lat="33.147663" lon="-117.191095">
+<ele>171</ele>
+<time>2020-03-10T00:01:09Z</time></trkpt>
+<trkpt lat="33.147531" lon="-117.191083">
+<ele>171</ele>
+<time>2020-03-10T00:01:20Z</time></trkpt>
+<trkpt lat="33.147453" lon="-117.190979">
+<ele>171</ele>
+<time>2020-03-10T00:01:29Z</time></trkpt>
+<trkpt lat="33.147188" lon="-117.190309">
+<ele>170</ele>
+<time>2020-03-10T00:02:19Z</time></trkpt>
+<trkpt lat="33.14703" lon="-117.19012">
+<ele>170</ele>
+<time>2020-03-10T00:02:37Z</time></trkpt>
+<trkpt lat="33.146886" lon="-117.189897">
+<ele>171</ele>
+<time>2020-03-10T00:02:55Z</time></trkpt>
+<trkpt lat="33.14534" lon="-117.185586">
+<ele>173</ele>
+<time>2020-03-10T00:08:10Z</time></trkpt>
+<trkpt lat="33.145197" lon="-117.185208">
+<ele>172</ele>
+<time>2020-03-10T00:08:38Z</time></trkpt>
+<trkpt lat="33.145115" lon="-117.185104">
+<ele>172</ele>
+<time>2020-03-10T00:08:48Z</time></trkpt>
+<trkpt lat="33.144852" lon="-117.184328">
+<ele>171</ele>
+<time>2020-03-10T00:09:44Z</time></trkpt>
+<trkpt lat="33.144836" lon="-117.184198">
+<ele>171</ele>
+<time>2020-03-10T00:09:53Z</time></trkpt>
+<trkpt lat="33.144836" lon="-117.184198">
+<ele>171</ele>
+<time>2020-03-10T00:09:53Z</time></trkpt>
+<trkpt lat="33.143593" lon="-117.180717">
+<ele>171</ele>
+<time>2020-03-10T00:14:07Z</time></trkpt>
+<trkpt lat="33.143475" lon="-117.180527">
+<ele>171</ele>
+<time>2020-03-10T00:14:22Z</time></trkpt>
+<trkpt lat="33.143093" lon="-117.180107">
+<ele>172</ele>
+<time>2020-03-10T00:15:04Z</time></trkpt>
+<trkpt lat="33.143047" lon="-117.180077">
+<ele>172</ele>
+<time>2020-03-10T00:15:08Z</time></trkpt>
+<trkpt lat="33.142887" lon="-117.180038">
+<ele>172</ele>
+<time>2020-03-10T00:15:21Z</time></trkpt>
+<trkpt lat="33.142792" lon="-117.180061">
+<ele>173</ele>
+<time>2020-03-10T00:15:29Z</time></trkpt>
+<trkpt lat="33.142292" lon="-117.180397">
+<ele>172</ele>
+<time>2020-03-10T00:16:15Z</time></trkpt>
+<trkpt lat="33.142148" lon="-117.180471">
+<ele>172</ele>
+<time>2020-03-10T00:16:28Z</time></trkpt>
+<trkpt lat="33.142148" lon="-117.180471">
+<ele>172</ele>
+<time>2020-03-10T00:16:28Z</time></trkpt>
+<trkpt lat="33.141582" lon="-117.180763">
+<ele>171</ele>
+<time>2020-03-10T00:17:17Z</time></trkpt>
+<trkpt lat="33.141171" lon="-117.180923">
+<ele>170</ele>
+<time>2020-03-10T00:17:52Z</time></trkpt>
+<trkpt lat="33.141052" lon="-117.180946">
+<ele>170</ele>
+<time>2020-03-10T00:18:01Z</time></trkpt>
+<trkpt lat="33.140575" lon="-117.181122">
+<ele>170</ele>
+<time>2020-03-10T00:18:41Z</time></trkpt>
+<trkpt lat="33.140045" lon="-117.181382">
+<ele>170</ele>
+<time>2020-03-10T00:19:27Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
