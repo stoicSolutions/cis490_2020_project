@@ -5,6 +5,7 @@
 #### Instructor: Dr. Shaun-inn Wuu
 #### Clients: Dr. Wesley Schultz & Dr. Kristin Stewart
 #### Spring 2020 
+#### ![Final Presentation Link](https://csusm.zoom.us/rec/play/7JN4JeH8rWo3TILAswSDC_V4W43vLvqs1CQf-PBexRy2UnYHYVP3MrIaMeUbXxu13-pOUq_LsjAE-HKF?autoplay=true)
 
 ## Project Outline
 Building on fixIT's previous work the Stoic Solutions team was tasked with using their machine learning algorithm to process street images for the city of San Marcos.
