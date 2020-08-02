@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>AutumnDrPicoAve</name>
+<trkseg>
+<trkpt lat="33.144321" lon="-117.173528">
+<ele>188</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.144321" lon="-117.173528">
+<ele>188</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.14426" lon="-117.17321">
+<ele>187</ele>
+<time>2020-03-10T00:00:22Z</time></trkpt>
+<trkpt lat="33.144273" lon="-117.173011">
+<ele>185</ele>
+<time>2020-03-10T00:00:35Z</time></trkpt>
+<trkpt lat="33.144312" lon="-117.172851">
+<ele>184</ele>
+<time>2020-03-10T00:00:46Z</time></trkpt>
+<trkpt lat="33.144403" lon="-117.172626">
+<ele>183</ele>
+<time>2020-03-10T00:01:03Z</time></trkpt>
+<trkpt lat="33.144403" lon="-117.172626">
+<ele>183</ele>
+<time>2020-03-10T00:01:03Z</time></trkpt>
+<trkpt lat="33.144434" lon="-117.172549">
+<ele>183</ele>
+<time>2020-03-10T00:01:09Z</time></trkpt>
+<trkpt lat="33.144469" lon="-117.172335">
+<ele>182</ele>
+<time>2020-03-10T00:01:24Z</time></trkpt>
+<trkpt lat="33.144466" lon="-117.172173">
+<ele>182</ele>
+<time>2020-03-10T00:01:34Z</time></trkpt>
+<trkpt lat="33.144365" lon="-117.171716">
+<ele>182</ele>
+<time>2020-03-10T00:02:06Z</time></trkpt>
+<trkpt lat="33.144365" lon="-117.171716">
+<ele>182</ele>
+<time>2020-03-10T00:02:06Z</time></trkpt>
+<trkpt lat="33.144061" lon="-117.170517">
+<ele>180</ele>
+<time>2020-03-10T00:03:30Z</time></trkpt>
+<trkpt lat="33.14304" lon="-117.166321">
+<ele>176</ele>
+<time>2020-03-10T00:08:24Z</time></trkpt>
+<trkpt lat="33.143016" lon="-117.166058">
+<ele>176</ele>
+<time>2020-03-10T00:08:41Z</time></trkpt>
+<trkpt lat="33.143016" lon="-117.166058">
+<ele>176</ele>
+<time>2020-03-10T00:08:41Z</time></trkpt>
+<trkpt lat="33.143014" lon="-117.166024">
+<ele>176</ele>
+<time>2020-03-10T00:08:44Z</time></trkpt>
+<trkpt lat="33.14105" lon="-117.165268">
+<ele>176</ele>
+<time>2020-03-10T00:11:29Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>RichlandtoBennett</name>
+<trkseg>
+<trkpt lat="33.158946" lon="-117.149046">
+<ele>210</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.158946" lon="-117.149046">
+<ele>210</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.158928" lon="-117.148979">
+<ele>209</ele>
+<time>2020-03-10T00:00:05Z</time></trkpt>
+<trkpt lat="33.158424" lon="-117.148102">
+<ele>206</ele>
+<time>2020-03-10T00:01:16Z</time></trkpt>
+<trkpt lat="33.157616" lon="-117.146606">
+<ele>208</ele>
+<time>2020-03-10T00:03:16Z</time></trkpt>
+<trkpt lat="33.156776" lon="-117.145107">
+<ele>219</ele>
+<time>2020-03-10T00:05:17Z</time></trkpt>
+<trkpt lat="33.156425" lon="-117.144549">
+<ele>225</ele>
+<time>2020-03-10T00:06:03Z</time></trkpt>
+<trkpt lat="33.156135" lon="-117.144262">
+<ele>228</ele>
+<time>2020-03-10T00:06:34Z</time></trkpt>
+<trkpt lat="33.155531" lon="-117.143328">
+<ele>228</ele>
+<time>2020-03-10T00:07:53Z</time></trkpt>
+<trkpt lat="33.155481" lon="-117.143166">
+<ele>226</ele>
+<time>2020-03-10T00:08:04Z</time></trkpt>
+<trkpt lat="33.155458" lon="-117.142973">
+<ele>224</ele>
+<time>2020-03-10T00:08:17Z</time></trkpt>
+<trkpt lat="33.155399" lon="-117.142785">
+<ele>222</ele>
+<time>2020-03-10T00:08:31Z</time></trkpt>
+<trkpt lat="33.154431" lon="-117.141064">
+<ele>215</ele>
+<time>2020-03-10T00:10:50Z</time></trkpt>
+<trkpt lat="33.154431" lon="-117.141064">
+<ele>215</ele>
+<time>2020-03-10T00:10:50Z</time></trkpt>
+<trkpt lat="33.154369" lon="-117.140953">
+<ele>215</ele>
+<time>2020-03-10T00:10:59Z</time></trkpt>
+<trkpt lat="33.154308" lon="-117.141006">
+<ele>215</ele>
+<time>2020-03-10T00:11:05Z</time></trkpt>
+<trkpt lat="33.15189" lon="-117.140297">
+<ele>219</ele>
+<time>2020-03-10T00:14:25Z</time></trkpt>
+<trkpt lat="33.151073" lon="-117.139877">
+<ele>219</ele>
+<time>2020-03-10T00:15:36Z</time></trkpt>
+<trkpt lat="33.150913" lon="-117.139816">
+<ele>219</ele>
+<time>2020-03-10T00:15:49Z</time></trkpt>
+<trkpt lat="33.149784" lon="-117.139557">
+<ele>213</ele>
+<time>2020-03-10T00:17:22Z</time></trkpt>
+<trkpt lat="33.149326" lon="-117.139473">
+<ele>211</ele>
+<time>2020-03-10T00:17:59Z</time></trkpt>
+<trkpt lat="33.149097" lon="-117.139397">
+<ele>210</ele>
+<time>2020-03-10T00:18:18Z</time></trkpt>
+<trkpt lat="33.14888" lon="-117.139359">
+<ele>209</ele>
+<time>2020-03-10T00:18:35Z</time></trkpt>
+<trkpt lat="33.147675" lon="-117.139053">
+<ele>206</ele>
+<time>2020-03-10T00:20:14Z</time></trkpt>
+<trkpt lat="33.146941" lon="-117.138897">
+<ele>203</ele>
+<time>2020-03-10T00:21:14Z</time></trkpt>
+<trkpt lat="33.146686" lon="-117.138956">
+<ele>202</ele>
+<time>2020-03-10T00:21:35Z</time></trkpt>
+<trkpt lat="33.146634" lon="-117.138915">
+<ele>202</ele>
+<time>2020-03-10T00:21:40Z</time></trkpt>
+<trkpt lat="33.146621" lon="-117.138863">
+<ele>201</ele>
+<time>2020-03-10T00:21:43Z</time></trkpt>
+<trkpt lat="33.146633" lon="-117.138786">
+<ele>201</ele>
+<time>2020-03-10T00:21:48Z</time></trkpt>
+<trkpt lat="33.146656" lon="-117.138757">
+<ele>201</ele>
+<time>2020-03-10T00:21:51Z</time></trkpt>
+<trkpt lat="33.146724" lon="-117.138736">
+<ele>202</ele>
+<time>2020-03-10T00:21:57Z</time></trkpt>
+<trkpt lat="33.146795" lon="-117.138795">
+<ele>202</ele>
+<time>2020-03-10T00:22:04Z</time></trkpt>
+<trkpt lat="33.146797" lon="-117.13887">
+<ele>202</ele>
+<time>2020-03-10T00:22:09Z</time></trkpt>
+<trkpt lat="33.146797" lon="-117.13887">
+<ele>202</ele>
+<time>2020-03-10T00:22:09Z</time></trkpt>
+<trkpt lat="33.146738" lon="-117.138951">
+<ele>202</ele>
+<time>2020-03-10T00:22:16Z</time></trkpt>
+<trkpt lat="33.146686" lon="-117.138956">
+<ele>202</ele>
+<time>2020-03-10T00:22:20Z</time></trkpt>
+<trkpt lat="33.146634" lon="-117.138915">
+<ele>202</ele>
+<time>2020-03-10T00:22:25Z</time></trkpt>
+<trkpt lat="33.146621" lon="-117.138863">
+<ele>201</ele>
+<time>2020-03-10T00:22:29Z</time></trkpt>
+<trkpt lat="33.146633" lon="-117.138786">
+<ele>201</ele>
+<time>2020-03-10T00:22:34Z</time></trkpt>
+<trkpt lat="33.146656" lon="-117.138757">
+<ele>201</ele>
+<time>2020-03-10T00:22:37Z</time></trkpt>
+<trkpt lat="33.146697" lon="-117.138631">
+<ele>201</ele>
+<time>2020-03-10T00:22:46Z</time></trkpt>
+<trkpt lat="33.146889" lon="-117.137446">
+<ele>201</ele>
+<time>2020-03-10T00:24:07Z</time></trkpt>
+<trkpt lat="33.146979" lon="-117.136811">
+<ele>200</ele>
+<time>2020-03-10T00:24:50Z</time></trkpt>
+<trkpt lat="33.146982" lon="-117.13675">
+<ele>200</ele>
+<time>2020-03-10T00:24:54Z</time></trkpt>
+<trkpt lat="33.146961" lon="-117.136654">
+<ele>200</ele>
+<time>2020-03-10T00:25:01Z</time></trkpt>
+<trkpt lat="33.147003" lon="-117.136586">
+<ele>200</ele>
+<time>2020-03-10T00:25:06Z</time></trkpt>
+<trkpt lat="33.147029" lon="-117.136508">
+<ele>200</ele>
+<time>2020-03-10T00:25:12Z</time></trkpt>
+<trkpt lat="33.147157" lon="-117.135861">
+<ele>201</ele>
+<time>2020-03-10T00:25:57Z</time></trkpt>
+<trkpt lat="33.147491" lon="-117.13385">
+<ele>202</ele>
+<time>2020-03-10T00:28:14Z</time></trkpt>
+<trkpt lat="33.147503" lon="-117.133594">
+<ele>201</ele>
+<time>2020-03-10T00:28:31Z</time></trkpt>
+<trkpt lat="33.147491" lon="-117.133076">
+<ele>200</ele>
+<time>2020-03-10T00:29:06Z</time></trkpt>
+<trkpt lat="33.147491" lon="-117.133076">
+<ele>200</ele>
+<time>2020-03-10T00:29:06Z</time></trkpt>
+<trkpt lat="33.147437" lon="-117.130821">
+<ele>201</ele>
+<time>2020-03-10T00:31:38Z</time></trkpt>
+<trkpt lat="33.147305" lon="-117.127327">
+<ele>203</ele>
+<time>2020-03-10T00:35:32Z</time></trkpt>
+<trkpt lat="33.147163" lon="-117.122757">
+<ele>206</ele>
+<time>2020-03-10T00:40:39Z</time></trkpt>
+<trkpt lat="33.147129" lon="-117.122401">
+<ele>206</ele>
+<time>2020-03-10T00:41:03Z</time></trkpt>
+<trkpt lat="33.147129" lon="-117.122401">
+<ele>206</ele>
+<time>2020-03-10T00:41:03Z</time></trkpt>
+<trkpt lat="33.147076" lon="-117.122192">
+<ele>206</ele>
+<time>2020-03-10T00:41:18Z</time></trkpt>
+<trkpt lat="33.146756" lon="-117.122173">
+<ele>206</ele>
+<time>2020-03-10T00:41:44Z</time></trkpt>
+<trkpt lat="33.146604" lon="-117.122183">
+<ele>206</ele>
+<time>2020-03-10T00:41:56Z</time></trkpt>
+<trkpt lat="33.146366" lon="-117.12224">
+<ele>206</ele>
+<time>2020-03-10T00:42:15Z</time></trkpt>
+<trkpt lat="33.145836" lon="-117.122467">
+<ele>208</ele>
+<time>2020-03-10T00:43:00Z</time></trkpt>
+<trkpt lat="33.145744" lon="-117.122566">
+<ele>209</ele>
+<time>2020-03-10T00:43:10Z</time></trkpt>
+<trkpt lat="33.145184" lon="-117.123291">
+<ele>210</ele>
+<time>2020-03-10T00:44:17Z</time></trkpt>
+<trkpt lat="33.144951" lon="-117.123512">
+<ele>211</ele>
+<time>2020-03-10T00:44:40Z</time></trkpt>
+<trkpt lat="33.142117" lon="-117.125237">
+<ele>225</ele>
+<time>2020-03-10T00:48:55Z</time></trkpt>
+<trkpt lat="33.142093" lon="-117.125183">
+<ele>225</ele>
+<time>2020-03-10T00:48:59Z</time></trkpt>
+<trkpt lat="33.142093" lon="-117.125183">
+<ele>225</ele>
+<time>2020-03-10T00:48:59Z</time></trkpt>
+<trkpt lat="33.142117" lon="-117.125237">
+<ele>225</ele>
+<time>2020-03-10T00:49:04Z</time></trkpt>
+<trkpt lat="33.140022" lon="-117.126534">
+<ele>223</ele>
+<time>2020-03-10T00:52:13Z</time></trkpt>
+<trkpt lat="33.135618" lon="-117.12922">
+<ele>210</ele>
+<time>2020-03-10T00:58:49Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

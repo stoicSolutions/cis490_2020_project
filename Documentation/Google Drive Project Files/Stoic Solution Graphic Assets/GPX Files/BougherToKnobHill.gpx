@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>BougherToKnobHill</name>
+<trkseg>
+<trkpt lat="33.140498" lon="-117.136198">
+<ele>209</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.140498" lon="-117.136198">
+<ele>209</ele>
+<time>2020-03-10T00:00:00Z</time></trkpt>
+<trkpt lat="33.140713" lon="-117.136017">
+<ele>211</ele>
+<time>2020-03-10T00:00:21Z</time></trkpt>
+<trkpt lat="33.141514" lon="-117.135521">
+<ele>215</ele>
+<time>2020-03-10T00:01:33Z</time></trkpt>
+<trkpt lat="33.14418" lon="-117.133888">
+<ele>201</ele>
+<time>2020-03-10T00:05:34Z</time></trkpt>
+<trkpt lat="33.144652" lon="-117.133649">
+<ele>202</ele>
+<time>2020-03-10T00:06:15Z</time></trkpt>
+<trkpt lat="33.145459" lon="-117.133144">
+<ele>204</ele>
+<time>2020-03-10T00:07:28Z</time></trkpt>
+<trkpt lat="33.145459" lon="-117.133144">
+<ele>204</ele>
+<time>2020-03-10T00:07:28Z</time></trkpt>
+<trkpt lat="33.145491" lon="-117.133125">
+<ele>204</ele>
+<time>2020-03-10T00:07:31Z</time></trkpt>
+<trkpt lat="33.144493" lon="-117.130707">
+<ele>211</ele>
+<time>2020-03-10T00:10:31Z</time></trkpt>
+<trkpt lat="33.142799" lon="-117.126839">
+<ele>216</ele>
+<time>2020-03-10T00:15:24Z</time></trkpt>
+<trkpt lat="33.141869" lon="-117.124672">
+<ele>228</ele>
+<time>2020-03-10T00:18:08Z</time></trkpt>
+<trkpt lat="33.14172" lon="-117.124268">
+<ele>230</ele>
+<time>2020-03-10T00:18:37Z</time></trkpt>
+<trkpt lat="33.141647" lon="-117.124008">
+<ele>231</ele>
+<time>2020-03-10T00:18:56Z</time></trkpt>
+<trkpt lat="33.141552" lon="-117.123772">
+<ele>232</ele>
+<time>2020-03-10T00:19:13Z</time></trkpt>
+<trkpt lat="33.141445" lon="-117.123558">
+<ele>232</ele>
+<time>2020-03-10T00:19:30Z</time></trkpt>
+<trkpt lat="33.141186" lon="-117.123154">
+<ele>231</ele>
+<time>2020-03-10T00:20:04Z</time></trkpt>
+<trkpt lat="33.14106" lon="-117.122902">
+<ele>230</ele>
+<time>2020-03-10T00:20:24Z</time></trkpt>
+<trkpt lat="33.140344" lon="-117.121215">
+<ele>226</ele>
+<time>2020-03-10T00:22:31Z</time></trkpt>
+<trkpt lat="33.138535" lon="-117.117073">
+<ele>241</ele>
+<time>2020-03-10T00:27:44Z</time></trkpt>
+<trkpt lat="33.138433" lon="-117.116864">
+<ele>241</ele>
+<time>2020-03-10T00:28:01Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
